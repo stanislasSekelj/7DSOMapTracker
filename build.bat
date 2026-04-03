@@ -6,7 +6,7 @@ rmdir /S /Q build
 rmdir /S /Q dist
 
 echo Building 7DS Origin Live Tracker Executable...
-pyinstaller --noconfirm --onedir ^
+pyinstaller --noconfirm --onefile ^
   --paths "backend" ^
   --add-data "backend/full_map.jpg;." ^
   --add-data "frontend;frontend" ^
