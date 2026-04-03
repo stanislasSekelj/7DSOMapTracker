@@ -1,0 +1,706 @@
+{
+    "markers": [
+        {
+            "id": "match:c01_00_common_obj_viewpoint_001",
+            "poiId": "match:c01_00_common_obj_viewpoint_001",
+            "entityId": "map:britannia-world:poi:viewpoint:c01_00_common_obj_viewpoint_001",
+            "legacyEntityId": "map:britannia-world:poi:match:c01_00_common_obj_viewpoint_001",
+            "oldName": "map:britannia-world:poi:viewpoint:c01_00_common_obj_viewpoint_001",
+            "categoryId": "viewpoint",
+            "regionId": "C01",
+            "order": 372,
+            "title": "C01_00_Common_Obj_Viewpoint_001",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -354202.248489,
+                    "y": 31567.224045
+                },
+                "map": {
+                    "x": -719.9146756808195,
+                    "y": -386.56675083120894
+                }
+            },
+            "source": {
+                "rawName": "C01_00_Common_Obj_Viewpoint_001",
+                "old_name": "map:britannia-world:poi:viewpoint:c01_00_common_obj_viewpoint_001"
+            }
+        },
+        {
+            "id": "match:c01_00_common_obj_viewpoint_002",
+            "poiId": "match:c01_00_common_obj_viewpoint_002",
+            "entityId": "map:britannia-world:poi:viewpoint:c01_00_common_obj_viewpoint_002",
+            "legacyEntityId": "map:britannia-world:poi:match:c01_00_common_obj_viewpoint_002",
+            "oldName": "map:britannia-world:poi:viewpoint:c01_00_common_obj_viewpoint_002",
+            "categoryId": "viewpoint",
+            "regionId": "C01",
+            "order": 373,
+            "title": "C01_00_Common_Obj_Viewpoint_002",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -383277.218981,
+                    "y": 134157.477093
+                },
+                "map": {
+                    "x": -1135.4108128532262,
+                    "y": -1858.0626014084003
+                }
+            },
+            "source": {
+                "rawName": "C01_00_Common_Obj_Viewpoint_002",
+                "old_name": "map:britannia-world:poi:viewpoint:c01_00_common_obj_viewpoint_002"
+            }
+        },
+        {
+            "id": "match:c01_00_common_obj_viewpoint_003",
+            "poiId": "match:c01_00_common_obj_viewpoint_003",
+            "entityId": "map:britannia-world:poi:viewpoint:c01_00_common_obj_viewpoint_003",
+            "legacyEntityId": "map:britannia-world:poi:match:c01_00_common_obj_viewpoint_003",
+            "oldName": "map:britannia-world:poi:viewpoint:c01_00_common_obj_viewpoint_003",
+            "categoryId": "viewpoint",
+            "regionId": "C01",
+            "order": 374,
+            "title": "C01_00_Common_Obj_Viewpoint_003",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -381423.869144,
+                    "y": 78289.069908
+                },
+                "map": {
+                    "x": -1108.925499710277,
+                    "y": -1056.718156799029
+                }
+            },
+            "source": {
+                "rawName": "C01_00_Common_Obj_Viewpoint_003",
+                "old_name": "map:britannia-world:poi:viewpoint:c01_00_common_obj_viewpoint_003"
+            }
+        },
+        {
+            "id": "match:c01_00_common_obj_viewpoint_004",
+            "poiId": "match:c01_00_common_obj_viewpoint_004",
+            "entityId": "map:britannia-world:poi:viewpoint:c01_00_common_obj_viewpoint_004",
+            "legacyEntityId": "map:britannia-world:poi:match:c01_00_common_obj_viewpoint_004",
+            "oldName": "map:britannia-world:poi:viewpoint:c01_00_common_obj_viewpoint_004",
+            "categoryId": "viewpoint",
+            "regionId": "C01",
+            "order": 375,
+            "title": "C01_00_Common_Obj_Viewpoint_004",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -352458.756241,
+                    "y": 18693.908304
+                },
+                "map": {
+                    "x": -694.9992834387758,
+                    "y": -201.91928059650292
+                }
+            },
+            "source": {
+                "rawName": "C01_00_Common_Obj_Viewpoint_004",
+                "old_name": "map:britannia-world:poi:viewpoint:c01_00_common_obj_viewpoint_004"
+            }
+        },
+        {
+            "id": "match:c01_00_common_obj_viewpoint_005",
+            "poiId": "match:c01_00_common_obj_viewpoint_005",
+            "entityId": "map:britannia-world:poi:viewpoint:c01_00_common_obj_viewpoint_005",
+            "legacyEntityId": "map:britannia-world:poi:match:c01_00_common_obj_viewpoint_005",
+            "oldName": "map:britannia-world:poi:viewpoint:c01_00_common_obj_viewpoint_005",
+            "categoryId": "viewpoint",
+            "regionId": "C01",
+            "order": 376,
+            "title": "C01_00_Common_Obj_Viewpoint_005",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -350447.537454,
+                    "y": 90582.110298
+                },
+                "map": {
+                    "x": -666.2579425924614,
+                    "y": -1233.0424896418306
+                }
+            },
+            "source": {
+                "rawName": "C01_00_Common_Obj_Viewpoint_005",
+                "old_name": "map:britannia-world:poi:viewpoint:c01_00_common_obj_viewpoint_005"
+            }
+        },
+        {
+            "id": "match:c02_00_common_obj_viewpoint_001",
+            "poiId": "match:c02_00_common_obj_viewpoint_001",
+            "entityId": "map:britannia-world:poi:viewpoint:c02_00_common_obj_viewpoint_001",
+            "legacyEntityId": "map:britannia-world:poi:match:c02_00_common_obj_viewpoint_001",
+            "oldName": "map:britannia-world:poi:viewpoint:c02_00_common_obj_viewpoint_001",
+            "categoryId": "viewpoint",
+            "regionId": "C02",
+            "order": 379,
+            "title": "C02_00_Common_Obj_Viewpoint_001",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -467868.917921,
+                    "y": -54736.495485
+                },
+                "map": {
+                    "x": -2344.2692760489854,
+                    "y": 851.3243879922222
+                }
+            },
+            "source": {
+                "rawName": "C02_00_Common_Obj_Viewpoint_001",
+                "old_name": "map:britannia-world:poi:viewpoint:c02_00_common_obj_viewpoint_001"
+            }
+        },
+        {
+            "id": "match:c02_00_common_obj_viewpoint_002",
+            "poiId": "match:c02_00_common_obj_viewpoint_002",
+            "entityId": "map:britannia-world:poi:viewpoint:c02_00_common_obj_viewpoint_002",
+            "legacyEntityId": "map:britannia-world:poi:match:c02_00_common_obj_viewpoint_002",
+            "oldName": "map:britannia-world:poi:viewpoint:c02_00_common_obj_viewpoint_002",
+            "categoryId": "viewpoint",
+            "regionId": "C02",
+            "order": 380,
+            "title": "C02_00_Common_Obj_Viewpoint_002",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -421463.278968,
+                    "y": -61262.523241
+                },
+                "map": {
+                    "x": -1681.1090594876605,
+                    "y": 944.9299935775064
+                }
+            },
+            "source": {
+                "rawName": "C02_00_Common_Obj_Viewpoint_002",
+                "old_name": "map:britannia-world:poi:viewpoint:c02_00_common_obj_viewpoint_002"
+            }
+        },
+        {
+            "id": "match:c02_00_common_obj_viewpoint_003",
+            "poiId": "match:c02_00_common_obj_viewpoint_003",
+            "entityId": "map:britannia-world:poi:viewpoint:c02_00_common_obj_viewpoint_003",
+            "legacyEntityId": "map:britannia-world:poi:match:c02_00_common_obj_viewpoint_003",
+            "oldName": "map:britannia-world:poi:viewpoint:c02_00_common_obj_viewpoint_003",
+            "categoryId": "viewpoint",
+            "regionId": "C02",
+            "order": 381,
+            "title": "C02_00_Common_Obj_Viewpoint_003",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -476673.852177,
+                    "y": 5766.725158
+                },
+                "map": {
+                    "x": -2470.0962712107394,
+                    "y": -16.49916714683397
+                }
+            },
+            "source": {
+                "rawName": "C02_00_Common_Obj_Viewpoint_003",
+                "old_name": "map:britannia-world:poi:viewpoint:c02_00_common_obj_viewpoint_003"
+            }
+        },
+        {
+            "id": "match:c02_00_common_obj_viewpoint_004",
+            "poiId": "match:c02_00_common_obj_viewpoint_004",
+            "entityId": "map:britannia-world:poi:viewpoint:c02_00_common_obj_viewpoint_004",
+            "legacyEntityId": "map:britannia-world:poi:match:c02_00_common_obj_viewpoint_004",
+            "oldName": "map:britannia-world:poi:viewpoint:c02_00_common_obj_viewpoint_004",
+            "categoryId": "viewpoint",
+            "regionId": "C02",
+            "order": 382,
+            "title": "C02_00_Common_Obj_Viewpoint_004",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -434865.610202,
+                    "y": -32235.476778
+                },
+                "map": {
+                    "x": -1872.6351990709936,
+                    "y": 528.5826588572074
+                }
+            },
+            "source": {
+                "rawName": "C02_00_Common_Obj_Viewpoint_004",
+                "old_name": "map:britannia-world:poi:viewpoint:c02_00_common_obj_viewpoint_004"
+            }
+        },
+        {
+            "id": "match:c03_00_common_obj_viewpoint_001",
+            "poiId": "match:c03_00_common_obj_viewpoint_001",
+            "entityId": "map:britannia-world:poi:viewpoint:c03_00_common_obj_viewpoint_001",
+            "legacyEntityId": "map:britannia-world:poi:match:c03_00_common_obj_viewpoint_001",
+            "oldName": "map:britannia-world:poi:viewpoint:c03_00_common_obj_viewpoint_001",
+            "categoryId": "viewpoint",
+            "regionId": "C03",
+            "order": 385,
+            "title": "C03_00_Common_Obj_Viewpoint_001",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -434733.391709,
+                    "y": -116339.866264
+                },
+                "map": {
+                    "x": -1870.745729462783,
+                    "y": 1734.927866779371
+                }
+            },
+            "source": {
+                "rawName": "C03_00_Common_Obj_Viewpoint_001",
+                "old_name": "map:britannia-world:poi:viewpoint:c03_00_common_obj_viewpoint_001"
+            }
+        },
+        {
+            "id": "match:c03_00_common_obj_viewpoint_002",
+            "poiId": "match:c03_00_common_obj_viewpoint_002",
+            "entityId": "map:britannia-world:poi:viewpoint:c03_00_common_obj_viewpoint_002",
+            "legacyEntityId": "map:britannia-world:poi:match:c03_00_common_obj_viewpoint_002",
+            "oldName": "map:britannia-world:poi:viewpoint:c03_00_common_obj_viewpoint_002",
+            "categoryId": "viewpoint",
+            "regionId": "C03",
+            "order": 386,
+            "title": "C03_00_Common_Obj_Viewpoint_002",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -512970.887917,
+                    "y": -185848.031901
+                },
+                "map": {
+                    "x": -2988.7993992131696,
+                    "y": 2731.913197035086
+                }
+            },
+            "source": {
+                "rawName": "C03_00_Common_Obj_Viewpoint_002",
+                "old_name": "map:britannia-world:poi:viewpoint:c03_00_common_obj_viewpoint_002"
+            }
+        },
+        {
+            "id": "match:c03_00_common_obj_viewpoint_003",
+            "poiId": "match:c03_00_common_obj_viewpoint_003",
+            "entityId": "map:britannia-world:poi:viewpoint:c03_00_common_obj_viewpoint_003",
+            "legacyEntityId": "map:britannia-world:poi:match:c03_00_common_obj_viewpoint_003",
+            "oldName": "map:britannia-world:poi:viewpoint:c03_00_common_obj_viewpoint_003",
+            "categoryId": "viewpoint",
+            "regionId": "C03",
+            "order": 387,
+            "title": "C03_00_Common_Obj_Viewpoint_003",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -472537.34898,
+                    "y": -97456.417663
+                },
+                "map": {
+                    "x": -2410.983533668057,
+                    "y": 1464.0744919664812
+                }
+            },
+            "source": {
+                "rawName": "C03_00_Common_Obj_Viewpoint_003",
+                "old_name": "map:britannia-world:poi:viewpoint:c03_00_common_obj_viewpoint_003"
+            }
+        },
+        {
+            "id": "match:c03_00_common_obj_viewpoint_004",
+            "poiId": "match:c03_00_common_obj_viewpoint_004",
+            "entityId": "map:britannia-world:poi:viewpoint:c03_00_common_obj_viewpoint_004",
+            "legacyEntityId": "map:britannia-world:poi:match:c03_00_common_obj_viewpoint_004",
+            "oldName": "map:britannia-world:poi:viewpoint:c03_00_common_obj_viewpoint_004",
+            "categoryId": "viewpoint",
+            "regionId": "C03",
+            "order": 388,
+            "title": "C03_00_Common_Obj_Viewpoint_004",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -373186.539246,
+                    "y": -142156.973908
+                },
+                "map": {
+                    "x": -991.2098599239707,
+                    "y": 2105.2336769646336
+                }
+            },
+            "source": {
+                "rawName": "C03_00_Common_Obj_Viewpoint_004",
+                "old_name": "map:britannia-world:poi:viewpoint:c03_00_common_obj_viewpoint_004"
+            }
+        },
+        {
+            "id": "match:c03_00_common_obj_viewpoint_005",
+            "poiId": "match:c03_00_common_obj_viewpoint_005",
+            "entityId": "map:britannia-world:poi:viewpoint:c03_00_common_obj_viewpoint_005",
+            "legacyEntityId": "map:britannia-world:poi:match:c03_00_common_obj_viewpoint_005",
+            "oldName": "map:britannia-world:poi:viewpoint:c03_00_common_obj_viewpoint_005",
+            "categoryId": "viewpoint",
+            "regionId": "C03",
+            "order": 389,
+            "title": "C03_00_Common_Obj_Viewpoint_005",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -326049.473507,
+                    "y": -140592.872658
+                },
+                "map": {
+                    "x": -317.5971820509112,
+                    "y": 2082.799104177482
+                }
+            },
+            "source": {
+                "rawName": "C03_00_Common_Obj_Viewpoint_005",
+                "old_name": "map:britannia-world:poi:viewpoint:c03_00_common_obj_viewpoint_005"
+            }
+        },
+        {
+            "id": "match:c03_00_common_obj_viewpoint_006",
+            "poiId": "match:c03_00_common_obj_viewpoint_006",
+            "entityId": "map:britannia-world:poi:viewpoint:c03_00_common_obj_viewpoint_006",
+            "legacyEntityId": "map:britannia-world:poi:match:c03_00_common_obj_viewpoint_006",
+            "oldName": "map:britannia-world:poi:viewpoint:c03_00_common_obj_viewpoint_006",
+            "categoryId": "viewpoint",
+            "regionId": "C03",
+            "order": 390,
+            "title": "C03_00_Common_Obj_Viewpoint_006",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -379564.265871,
+                    "y": -102304.637581
+                },
+                "map": {
+                    "x": -1082.350821781808,
+                    "y": 1533.6145825702617
+                }
+            },
+            "source": {
+                "rawName": "C03_00_Common_Obj_Viewpoint_006",
+                "old_name": "map:britannia-world:poi:viewpoint:c03_00_common_obj_viewpoint_006"
+            }
+        },
+        {
+            "id": "match:c04_00_common_obj_viewpoint_001",
+            "poiId": "match:c04_00_common_obj_viewpoint_001",
+            "entityId": "map:britannia-world:poi:viewpoint:c04_00_common_obj_viewpoint_001",
+            "legacyEntityId": "map:britannia-world:poi:match:c04_00_common_obj_viewpoint_001",
+            "oldName": "map:britannia-world:poi:viewpoint:c04_00_common_obj_viewpoint_001",
+            "categoryId": "viewpoint",
+            "regionId": "C04",
+            "order": 391,
+            "title": "C04_00_Common_Obj_Viewpoint_001",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -199105.794765,
+                    "y": -90133.408816
+                },
+                "map": {
+                    "x": 1496.4926437760382,
+                    "y": 1359.037445931915
+                }
+            },
+            "source": {
+                "rawName": "C04_00_Common_Obj_Viewpoint_001",
+                "old_name": "map:britannia-world:poi:viewpoint:c04_00_common_obj_viewpoint_001"
+            }
+        },
+        {
+            "id": "match:c04_00_common_obj_viewpoint_002",
+            "poiId": "match:c04_00_common_obj_viewpoint_002",
+            "entityId": "map:britannia-world:poi:viewpoint:c04_00_common_obj_viewpoint_002",
+            "legacyEntityId": "map:britannia-world:poi:match:c04_00_common_obj_viewpoint_002",
+            "oldName": "map:britannia-world:poi:viewpoint:c04_00_common_obj_viewpoint_002",
+            "categoryId": "viewpoint",
+            "regionId": "C04",
+            "order": 392,
+            "title": "C04_00_Common_Obj_Viewpoint_002",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -288868.091513,
+                    "y": -71170.715162
+                },
+                "map": {
+                    "x": 213.74370434790399,
+                    "y": 1087.047425451393
+                }
+            },
+            "source": {
+                "rawName": "C04_00_Common_Obj_Viewpoint_002",
+                "old_name": "map:britannia-world:poi:viewpoint:c04_00_common_obj_viewpoint_002"
+            }
+        },
+        {
+            "id": "match:c04_00_common_obj_viewpoint_003",
+            "poiId": "match:c04_00_common_obj_viewpoint_003",
+            "entityId": "map:britannia-world:poi:viewpoint:c04_00_common_obj_viewpoint_003",
+            "legacyEntityId": "map:britannia-world:poi:match:c04_00_common_obj_viewpoint_003",
+            "oldName": "map:britannia-world:poi:viewpoint:c04_00_common_obj_viewpoint_003",
+            "categoryId": "viewpoint",
+            "regionId": "C04",
+            "order": 393,
+            "title": "C04_00_Common_Obj_Viewpoint_003",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -274953.289258,
+                    "y": -156358.749107
+                },
+                "map": {
+                    "x": 412.59331583972653,
+                    "y": 2308.935809041263
+                }
+            },
+            "source": {
+                "rawName": "C04_00_Common_Obj_Viewpoint_003",
+                "old_name": "map:britannia-world:poi:viewpoint:c04_00_common_obj_viewpoint_003"
+            }
+        },
+        {
+            "id": "match:c04_00_common_obj_viewpoint_004",
+            "poiId": "match:c04_00_common_obj_viewpoint_004",
+            "entityId": "map:britannia-world:poi:viewpoint:c04_00_common_obj_viewpoint_004",
+            "legacyEntityId": "map:britannia-world:poi:match:c04_00_common_obj_viewpoint_004",
+            "oldName": "map:britannia-world:poi:viewpoint:c04_00_common_obj_viewpoint_004",
+            "categoryId": "viewpoint",
+            "regionId": "C04",
+            "order": 394,
+            "title": "C04_00_Common_Obj_Viewpoint_004",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -225482.646513,
+                    "y": -34574.716531
+                },
+                "map": {
+                    "x": 1119.553997696285,
+                    "y": 562.135374517575
+                }
+            },
+            "source": {
+                "rawName": "C04_00_Common_Obj_Viewpoint_004",
+                "old_name": "map:britannia-world:poi:viewpoint:c04_00_common_obj_viewpoint_004"
+            }
+        },
+        {
+            "id": "match:c05_00_common_obj_viewpoint_001",
+            "poiId": "match:c05_00_common_obj_viewpoint_001",
+            "entityId": "map:britannia-world:poi:viewpoint:c05_00_common_obj_viewpoint_001",
+            "legacyEntityId": "map:britannia-world:poi:match:c05_00_common_obj_viewpoint_001",
+            "oldName": "map:britannia-world:poi:viewpoint:c05_00_common_obj_viewpoint_001",
+            "categoryId": "viewpoint",
+            "regionId": "C05",
+            "order": 396,
+            "title": "C05_00_Common_Obj_Viewpoint_001",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -138772.692334,
+                    "y": -74251.123222
+                },
+                "map": {
+                    "x": 2358.6834071546346,
+                    "y": 1131.2310349435513
+                }
+            },
+            "source": {
+                "rawName": "C05_00_Common_Obj_Viewpoint_001",
+                "old_name": "map:britannia-world:poi:viewpoint:c05_00_common_obj_viewpoint_001"
+            }
+        },
+        {
+            "id": "match:c05_00_common_obj_viewpoint_002",
+            "poiId": "match:c05_00_common_obj_viewpoint_002",
+            "entityId": "map:britannia-world:poi:viewpoint:c05_00_common_obj_viewpoint_002",
+            "legacyEntityId": "map:britannia-world:poi:match:c05_00_common_obj_viewpoint_002",
+            "oldName": "map:britannia-world:poi:viewpoint:c05_00_common_obj_viewpoint_002",
+            "categoryId": "viewpoint",
+            "regionId": "C05",
+            "order": 397,
+            "title": "C05_00_Common_Obj_Viewpoint_002",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -81616.213814,
+                    "y": -133832.763975
+                },
+                "map": {
+                    "x": 3175.4785968856786,
+                    "y": 1985.835975800841
+                }
+            },
+            "source": {
+                "rawName": "C05_00_Common_Obj_Viewpoint_002",
+                "old_name": "map:britannia-world:poi:viewpoint:c05_00_common_obj_viewpoint_002"
+            }
+        },
+        {
+            "id": "match:c05_00_common_obj_viewpoint_003",
+            "poiId": "match:c05_00_common_obj_viewpoint_003",
+            "entityId": "map:britannia-world:poi:viewpoint:c05_00_common_obj_viewpoint_003",
+            "legacyEntityId": "map:britannia-world:poi:match:c05_00_common_obj_viewpoint_003",
+            "oldName": "map:britannia-world:poi:viewpoint:c05_00_common_obj_viewpoint_003",
+            "categoryId": "viewpoint",
+            "regionId": "C05",
+            "order": 398,
+            "title": "C05_00_Common_Obj_Viewpoint_003",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -118149.316468,
+                    "y": -160156.480396
+                },
+                "map": {
+                    "x": 2653.4019524455193,
+                    "y": 2363.4082922191333
+                }
+            },
+            "source": {
+                "rawName": "C05_00_Common_Obj_Viewpoint_003",
+                "old_name": "map:britannia-world:poi:viewpoint:c05_00_common_obj_viewpoint_003"
+            }
+        },
+        {
+            "id": "match:c05_00_common_obj_viewpoint_004",
+            "poiId": "match:c05_00_common_obj_viewpoint_004",
+            "entityId": "map:britannia-world:poi:viewpoint:c05_00_common_obj_viewpoint_004",
+            "legacyEntityId": "map:britannia-world:poi:match:c05_00_common_obj_viewpoint_004",
+            "oldName": "map:britannia-world:poi:viewpoint:c05_00_common_obj_viewpoint_004",
+            "categoryId": "viewpoint",
+            "regionId": "C05",
+            "order": 399,
+            "title": "C05_00_Common_Obj_Viewpoint_004",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -95982.556857,
+                    "y": -209388.346351
+                },
+                "map": {
+                    "x": 2970.176237548715,
+                    "y": 3069.5619892478326
+                }
+            },
+            "source": {
+                "rawName": "C05_00_Common_Obj_Viewpoint_004",
+                "old_name": "map:britannia-world:poi:viewpoint:c05_00_common_obj_viewpoint_004"
+            }
+        },
+        {
+            "id": "match:c05_00_common_obj_viewpoint_005",
+            "poiId": "match:c05_00_common_obj_viewpoint_005",
+            "entityId": "map:britannia-world:poi:viewpoint:c05_00_common_obj_viewpoint_005",
+            "legacyEntityId": "map:britannia-world:poi:match:c05_00_common_obj_viewpoint_005",
+            "oldName": "map:britannia-world:poi:viewpoint:c05_00_common_obj_viewpoint_005",
+            "categoryId": "viewpoint",
+            "regionId": "C05",
+            "order": 400,
+            "title": "C05_00_Common_Obj_Viewpoint_005",
+            "description": "Pernes_Region - Pernes_Redtree_Outskirt",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -130708.547597,
+                    "y": -193783.705408
+                },
+                "map": {
+                    "x": 2473.924142781335,
+                    "y": 2845.737954165008
+                }
+            },
+            "source": {
+                "rawName": "C05_00_Common_Obj_Viewpoint_005",
+                "old_name": "map:britannia-world:poi:viewpoint:c05_00_common_obj_viewpoint_005"
+            }
+        },
+        {
+            "id": "match:c03_00_common_obj_viewpoint_007",
+            "poiId": "match:c03_00_common_obj_viewpoint_007",
+            "entityId": "map:britannia-world:poi:viewpoint:obj-viewpoint",
+            "legacyEntityId": "map:britannia-world:poi:match:c03_00_common_obj_viewpoint_007",
+            "oldName": "map:britannia-world:poi:viewpoint:c03_00_common_obj_viewpoint_007",
+            "categoryId": "viewpoint",
+            "regionId": "C03",
+            "order": 4388,
+            "title": "Obj Viewpoint",
+            "description": "",
+            "iconUrl": "icons/viewpoints-1773411964432.png",
+            "icon_url": "icons/viewpoints-1773411964432.png",
+            "position": {
+                "world": {
+                    "x": -352276.255826,
+                    "y": -165370.185262
+                },
+                "map": {
+                    "x": -692.3912595549427,
+                    "y": 2438.190689654722
+                }
+            },
+            "source": {
+                "rawName": "C03_00_Common_Obj_Viewpoint_007",
+                "old_name": "map:britannia-world:poi:viewpoint:c03_00_common_obj_viewpoint_007",
+                "source_record_id": "C:\\Users\\MichaelFONTAINE\\Documents\\Perso\\HolstNetworkCommunityDrivenWebApp\\SevenDeadlySins\\categorized_game_data_materialized\\spawn_tables\\Chapter_01_Obj_spawntable.json::73",
+                "primary_item_local_key": "Obj Viewpoint"
+            }
+        }
+    ]
+}

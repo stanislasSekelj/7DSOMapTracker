@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>7DS Origin - Live Tracker</title>
+    <!-- Modern Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;500;700&display=swap" rel="stylesheet">
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    <link rel="stylesheet" href="style.css?v=3">
+</head>
+<body>
+    <button id="menu-toggle" class="glass-btn" aria-label="Toggle Menu">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+    </button>
+
+    <nav id="sidebar" class="glassmorphism-panel">
+        <div class="sidebar-header">
+            <h1>7DS Live Tracker</h1>
+            <button id="menu-close" class="glass-btn-icon">✕</button>
+        </div>
+        
+        <div id="connection-status" class="status-disconnected">
+            <span class="indicator"></span>
+            <span class="status-text">Disconnected</span>
+        </div>
+        <div id="position-info" class="hidden">
+            <p>Tracking Live <span class="pulse"></span></p>
+            <div class="coords">X: <span id="val-x">-</span>, Y: <span id="val-y">-</span></div>
+        </div>
+
+        <div id="calibration-ui" class="side-block">
+            <div class="calibration-content">
+                <span class="block-title">CALIBRATION OFFSETS</span>
+                <div class="block-desc">Use keyboard arrows to nudge.</div>
+                <div class="offsets">
+                    DX: <span id="offset-x">0</span> | DY: <span id="offset-y">0</span>
+                </div>
+                <button id="reset-offset" class="danger-btn">Reset Offsets</button>
+            </div>
+        </div>
+
+        <div class="sidebar-divider"></div>
+        <div class="sidebar-section-title">Map Data</div>
+        <div id="custom-layers-control">
+            <!-- Layers injected by JS -->
+        </div>
+    </nav>
+    
+    <!-- Map Container -->
+    <div id="map"></div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="app.js?v=3"></script>
+</body>
+</html>
