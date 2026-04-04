@@ -11,8 +11,8 @@
             "order": 1,
             "title": "Lake Pernes",
             "description": "A warp point near the swamp, located east of Pernes.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -377953.685107,
@@ -42,8 +42,8 @@
             "order": 2,
             "title": "Bigmoss Habitat",
             "description": "A warp point near Bigmoss's cave, located east of Pernes.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -359070,
@@ -73,8 +73,8 @@
             "order": 3,
             "title": "Hunter's Hut",
             "description": "A warp point at the Hunter's Hut, located north of Pernes.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -357766.403938,
@@ -104,8 +104,8 @@
             "order": 4,
             "title": "Liones Forest",
             "description": "A warp point near the abandoned house, located southwest of Liones.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -386000,
@@ -135,8 +135,8 @@
             "order": 5,
             "title": "Liones Plains",
             "description": "A warp point near a ranch, located on the south side of Liones.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -347653,
@@ -166,8 +166,8 @@
             "order": 6,
             "title": "South District",
             "description": "A warp point located on the south side of Liones. It is an important road that connects the capital to other locations.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -343973.427351,
@@ -197,8 +197,8 @@
             "order": 7,
             "title": "Liones Castle",
             "description": "A warp point in the center of Liones. The nearby road leads to the castle.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -341789.577339,
@@ -228,8 +228,8 @@
             "order": 8,
             "title": "East District",
             "description": "A warp point in the east side of Liones. It is by an important road that connects the capital to other locations.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -312920.405047,
@@ -259,8 +259,8 @@
             "order": 9,
             "title": "North District",
             "description": "A warp point located in the north side of Liones. It is by an important road that connects the capital to other locations.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -340904.999998,
@@ -290,8 +290,8 @@
             "order": 10,
             "title": "West District",
             "description": "A warp point located in the southwest side of Liones. It is by an important road that connects the capital to other locations.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -364300,
@@ -321,8 +321,8 @@
             "order": 11,
             "title": "Liones Beach",
             "description": "A warp point on a beach, located in the west side of Liones.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -375269.733883,
@@ -352,8 +352,8 @@
             "order": 12,
             "title": "Giant Bird's Nest",
             "description": "A warp point near a Giant Bird habitat, located west of Pernes.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -399865.916852,
@@ -383,8 +383,8 @@
             "order": 13,
             "title": "Werebear Camp",
             "description": "A warp point near a Werebear campsite, located west of Liones Forest.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -405042.850096,
@@ -414,8 +414,8 @@
             "order": 14,
             "title": "Pernes Timberland",
             "description": "A warp point in the timberland, located south of Pernes.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -383128.533,
@@ -445,8 +445,8 @@
             "order": 15,
             "title": "Crescent Moon Island",
             "description": "A warp point on a deserted island, far away from Pernes.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -333231.219616,
@@ -476,8 +476,8 @@
             "order": 16,
             "title": "Moonrise Hill",
             "description": "A warp point on Moonrise Hill, located southeast of Pernes.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -360175,
@@ -507,8 +507,8 @@
             "order": 17,
             "title": "Wasteland Beach",
             "description": "A warp point near the cliff in the wasteland, located east of the Sacred Tree of the Fairy King's Forest.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -388817.999999,
@@ -538,8 +538,8 @@
             "order": 18,
             "title": "Bone Grave Hill",
             "description": "A warp point on Bone Grave Hill, located south of Ferzen.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -365061.800842,
@@ -569,8 +569,8 @@
             "order": 19,
             "title": "Breezeshade Vale",
             "description": "A warp point in the outskirts west of Ferzen.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -426395.177,
@@ -600,8 +600,8 @@
             "order": 20,
             "title": "Mushroom Colony",
             "description": "A warp point in the Mushroom Colony, located southwest of the Sacred Tree of the Fairy King's Forest.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -512592,
@@ -631,8 +631,8 @@
             "order": 21,
             "title": "Northern Wasteland",
             "description": "A warp point in the Northern Wasteland, located northwest of the Sacred Tree of the Fairy King's Forest.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -509678.348479,
@@ -662,8 +662,8 @@
             "order": 22,
             "title": "Forest Gateway",
             "description": "A warp point in the wasteland, located northeast of the Sacred Tree of the Fairy King's Forest.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -400123.928709,
@@ -693,8 +693,8 @@
             "order": 23,
             "title": "Windshore Coast",
             "description": "A warp point on a beach, located west of Ferzen.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -466039.549767,
@@ -724,8 +724,8 @@
             "order": 24,
             "title": "Forest of Temptation",
             "description": "A warp point in the Forest of Temptation, located south of the Sacred Tree of the Fairy King's Forest.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -471940.199929,
@@ -755,8 +755,8 @@
             "order": 25,
             "title": "Fairy King's Forest Pond",
             "description": "A warp point near a pond, located southeast of the Sacred Tree of the Fairy King's Forest.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -435920,
@@ -786,8 +786,8 @@
             "order": 26,
             "title": "Northern Border",
             "description": "A warp point near the path to Aquatree Lake, located northeast of the Sacred Tree of the Fairy King's Forest.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -432405,
@@ -817,8 +817,8 @@
             "order": 27,
             "title": "Dragonblood Storage",
             "description": "A warp point near the Dragonblood Storage warehouse, located northwest of Ferzen.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -400235.254928,
@@ -848,8 +848,8 @@
             "order": 28,
             "title": "Sea Wind Rock",
             "description": "A warp point by a rockface, located southwest of the Sacred Tree of the Fairy King's Forest.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -544852.91591,
@@ -879,8 +879,8 @@
             "order": 29,
             "title": "Light Garden",
             "description": "A warp point in the Light Garden, located south of the Sacred Tree of the Fairy King's Forest.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -469162,
@@ -910,8 +910,8 @@
             "order": 30,
             "title": "Elder Dragon's Sanctuary",
             "description": "A warp point in the Elder Dragon's Sanctuary, located south of Ferzen.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -391050.955659,
@@ -941,8 +941,8 @@
             "order": 32,
             "title": "Forest of Remembrance",
             "description": "A warp point in the Forest of Remembrance, located west of the Sacred Tree of the Fairy King's Forest.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -496576.548492,
@@ -972,8 +972,8 @@
             "order": 33,
             "title": "Firefly Grave",
             "description": "A warp point on the Firefly Grave, located west of the Sacred Tree of the Fairy King's Forest.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -525618,
@@ -1003,8 +1003,8 @@
             "order": 34,
             "title": "Aquatree Lake",
             "description": "A warp point near Aquatree Lake, located north of the Sacred Tree of the Fairy King's Forest.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -446722.732595,
@@ -1034,8 +1034,8 @@
             "order": 35,
             "title": "Pirate Ship Graveyard",
             "description": "A warp point in the Pirate Ship Graveyard, located northwest of Ferzen.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -488500.402915,
@@ -1065,8 +1065,8 @@
             "order": 36,
             "title": "Western Wasteland",
             "description": "A warp point in the wasteland, located east of the Sacred Tree of the Fairy King's Forest.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -376741.926549,
@@ -1096,8 +1096,8 @@
             "order": 37,
             "title": "Dragon's Landing Entrance",
             "description": "A warp point near the path to Dragon's Landing, located northwest of Ferzen.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -414303.025254,
@@ -1127,8 +1127,8 @@
             "order": 38,
             "title": "Tide's Rest",
             "description": "A warp point in Tide's Rest, located south of the Sacred Tree of the Fairy King's Forest.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -447618.905561,
@@ -1158,8 +1158,8 @@
             "order": 39,
             "title": "Northern Residence",
             "description": "A warp point in the south side of Northern Residence, north of the Sacred Tree of the Fairy King's Forest.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -472731.620834,
@@ -1189,8 +1189,8 @@
             "order": 40,
             "title": "Sacred Tree",
             "description": "A warp point near the Sacred Tree, located in the center of the Fairy King's Forest.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -458477.036427,
@@ -1220,8 +1220,8 @@
             "order": 41,
             "title": "Pirate Den",
             "description": "A warp point by the Pirate Den, located northwest of Ferzen.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -445600,
@@ -1251,8 +1251,8 @@
             "order": 42,
             "title": "Post Town Tala",
             "description": "A warp point in Post Town Tala, located south of the desert.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -224668.952019,
@@ -1282,8 +1282,8 @@
             "order": 43,
             "title": "Pilgrim's Path",
             "description": "A warp point near Post Town Tala, located south of the desert.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -223325.139149,
@@ -1313,8 +1313,8 @@
             "order": 44,
             "title": "Vanya",
             "description": "A warp point beyond Vanya Plains, located in the center of Vanya Village.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -76318.18612,
@@ -1344,8 +1344,8 @@
             "order": 45,
             "title": "Farewell Island",
             "description": "A warp point on Farewell Island, located between Pernes and the Fairy King's Forest.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -502245.587455,
@@ -1375,8 +1375,8 @@
             "order": 46,
             "title": "Dalmally Ruins",
             "description": "A warp point in Dalmally Ruins, located north of the desert.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -249916.06795,
@@ -1406,8 +1406,8 @@
             "order": 47,
             "title": "Western Dunes",
             "description": "A warp point in the vast sands, located on the west side of the desert.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -267022.180912,
@@ -1437,8 +1437,8 @@
             "order": 48,
             "title": "Altar of Wisdom",
             "description": "A warp point near the Altar of Wisdom, located north of the desert.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -174213.961792,
@@ -1468,8 +1468,8 @@
             "order": 49,
             "title": "Boulder Mountain",
             "description": "A warp point by the Boulder Mountain cliffs, located north of the desert.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -172368.237527,
@@ -1499,8 +1499,8 @@
             "order": 50,
             "title": "Sandy Tomb",
             "description": "A warp point in the south side of the desert. Giant desert insects thrive in this area.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -195746.955534,
@@ -1530,8 +1530,8 @@
             "order": 51,
             "title": "Quicksand Road",
             "description": "A warp point near the vast sands in the center of the desert.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -175694.718847,
@@ -1561,8 +1561,8 @@
             "order": 52,
             "title": "Ferzen Entrance",
             "description": "A warp point on the path to Ferzen from the south.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -354900.566522,
@@ -1592,8 +1592,8 @@
             "order": 53,
             "title": "Ferzen Mines Entrance",
             "description": "A warp point by the path to the mines, located north of Ferzen.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -368740.17667,
@@ -1623,8 +1623,8 @@
             "order": 55,
             "title": "Ferzen Mines",
             "description": "A warp point at the mines, located east of Ferzen.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -360250,
@@ -1654,8 +1654,8 @@
             "order": 56,
             "title": "Bandit Camp",
             "description": "A warp point near the bandit camp, located northeast of the desert.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -142522.9966,
@@ -1685,8 +1685,8 @@
             "order": 58,
             "title": "Baste Prison",
             "description": "A warp point near Baste Prison, located southwest of the desert.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -270854,
@@ -1716,8 +1716,8 @@
             "order": 59,
             "title": "Ferzen",
             "description": "A warp point by the cliff in the south side of Ferzen.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -368790.527549,
@@ -1747,8 +1747,8 @@
             "order": 60,
             "title": "Eastern Dunes",
             "description": "A warp point near the Forest of White Dreams, located east of the desert.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -151561.089273,
@@ -1778,8 +1778,8 @@
             "order": 61,
             "title": "Tunnel Entrance",
             "description": "A warp point at the entrance of a tunnel, located near the Ferzen Mines.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -339973.266499,
@@ -1809,8 +1809,8 @@
             "order": 62,
             "title": "Ruins of Glory",
             "description": "A warp point near the giant crater southwest of the desert.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -171006.996141,
@@ -1840,8 +1840,8 @@
             "order": 63,
             "title": "Temple Entrance",
             "description": "A warp point on the path to the Temple of the Undying, located north of the desert.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -214245.385486,
@@ -1871,8 +1871,8 @@
             "order": 64,
             "title": "Old Forest Waterfall",
             "description": "A warp point near the waterfall at the center of the valley, located north of the desert.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -302602.401167,
@@ -1902,8 +1902,8 @@
             "order": 65,
             "title": "Valley Border",
             "description": "A warp point located where Sand Valley meets the north side of the desert.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -252020.630465,
@@ -1933,8 +1933,8 @@
             "order": 66,
             "title": "Traveler's Rock",
             "description": "A warp point in the ruins near Traveler's Rock, located south of the desert.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -244385.388319,
@@ -1964,8 +1964,8 @@
             "order": 67,
             "title": "Oasis Village",
             "description": "A warp point in Oasis Village, located in the center of the desert.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -210488.883959,
@@ -1995,8 +1995,8 @@
             "order": 68,
             "title": "Forest of White Dreams",
             "description": "A warp point deep in the Forest of White Dreams.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -115185.764608,
@@ -2026,8 +2026,8 @@
             "order": 69,
             "title": "Vanya Plains",
             "description": "A warp point by a fork in the road in Vanya Plains.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -89235.793,
@@ -2057,8 +2057,8 @@
             "order": 70,
             "title": "Windshear Hollow",
             "description": "A warp point in the center of the valley north of Vanya.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -111571.240609,
@@ -2088,8 +2088,8 @@
             "order": 71,
             "title": "Fort Solgres",
             "description": "A warp point in Fort Solgres, deep in the valley.",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -132928.056709,
@@ -2119,8 +2119,8 @@
             "order": 4389,
             "title": "C03 Quest Obj Warp Ferzen Mine",
             "description": "",
-            "iconUrl": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
-            "icon_url": "https://zeroluck.gg/media/pages/7dso/interactive-map/markers/Waypoint_Open-1773411964398.png",
+            "iconUrl": "icons/Waypoint_Open-1773411964398.png",
+            "icon_url": "icons/Waypoint_Open-1773411964398.png",
             "position": {
                 "world": {
                     "x": -325590,
