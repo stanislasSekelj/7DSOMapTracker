@@ -4,7 +4,7 @@ import urllib.request
 from urllib.parse import urlparse
 
 # Define paths
-JSON_DIR = "json/"
+JSON_DIR = "frontend/json/"
 ICONS_DIR = "frontend/icons/"
 
 def ensure_dir(directory):

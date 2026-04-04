@@ -10,7 +10,6 @@ pyinstaller --noconfirm --onefile ^
   --paths "backend" ^
   --add-data "backend/full_map.jpg;." ^
   --add-data "frontend;frontend" ^
-  --add-data "json;json" ^
   --icon "NONE" ^
   --name "7DS_LiveTracker" ^
   main.py
