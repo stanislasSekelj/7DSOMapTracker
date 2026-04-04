@@ -48,6 +48,7 @@ document.addEventListener("DOMContentLoaded", () => {
         'json/gathering.json',
         'json/mining.json',
         'json/stellapoint.json',
+        'json/treasure-box.json',
         'json/viewpoint.json',
         'json/warpoints.json'
     ];
