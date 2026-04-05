@@ -11,9 +11,12 @@ import win32gui
 import win32ui
 import win32con
 import ctypes
-import time
-import mss
 from selector import select_screen_area
+import logging
+
+# Suppress invalid handshake tracebacks from websockets that clutter the console
+logging.getLogger('websockets.server').setLevel(logging.ERROR)
+logging.getLogger('websockets.protocol').setLevel(logging.ERROR)
 
 # Configurable constants
 DEFAULT_BOUNDING_BOX = {'top': 100, 'left': 1600, 'width': 300, 'height': 300} # Adjust based on your screen resolution

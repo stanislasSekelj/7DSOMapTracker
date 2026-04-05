@@ -49,6 +49,12 @@ if __name__ == '__main__':
     # Give the server a moment to spin up
     time.sleep(1.0)
     
+    try:
+        import webbrowser
+        webbrowser.open("http://localhost:8000")
+    except Exception as e:
+        print(f"Could not automatically open browser: {e}")
+    
     # Launch tracking loop
     try:
         print("Launching UI selector... please draw a box over where your minimap is!")
